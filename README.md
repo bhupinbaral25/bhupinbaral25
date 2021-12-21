@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Bhupin Baral.
+- 👀 I’m interested in Data Science and Machine Learning.
+- 🌱 I’m currently learning and solving Machine Learning and Deep Learning problems.
+- 💞️ I’m looking for an opportunity in Data Science: interested in predictive, descriptive, and forecasting analysis by using machine learning/Deep Learning algorithms.
+- Proficient knowledge of SQL, Python, Business Statistics, Applied Mathematics and AWS
+- 📫 How to reach me https://www.linkedin.com/in/bhupin-baral-0415/
