@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **python, AI, Deep Learning,ML**
+- 💬 Ask me about **python, AI, Deep Learning,Machine Learning**
 
 - 📫 How to reach me **bhupinbaral.729@gmail.com**
 
